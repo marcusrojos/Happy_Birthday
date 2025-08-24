@@ -1,6 +1,4 @@
-package com.example.greetingcard // Ou com.example.happy_birthdays si c'est votre package principal
-
-// Supprimez l'importation 'android.R' si elle existe encore
+package com.example.happy_birthdays
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -24,7 +22,6 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.happy_birthdays.R
 import com.example.happy_birthdays.ui.theme.Happy_BirthdaysTheme
 
 
